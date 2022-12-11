@@ -7,9 +7,6 @@
   
   <p align="center">
     Sou estudante de Ads, e estou aprendendo e compartilhando sempre.
-    
-      />
-    </a>  
   </p>
   
   <p align="center">
